@@ -1,0 +1,15 @@
+{
+  "name": "diffie_hellman",
+  "version": "1.0.0",
+  "description": "Diffie Hellman App",
+  "main": "index.js",
+  "keywords": [	"Diffie",	"Hellman","secret", "key", "large", "power", "exponent"],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Samson Maconi",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
